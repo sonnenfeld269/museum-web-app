@@ -1,0 +1,9 @@
+-)  update table:
+
+Solution: Open test/testn.html, post html table there, push convert button, use https://jsonformatter.curiousconcept.com/ to make it readable,
+put readable json into daten/data_gefangen.js and replace empty string and change to Heimatort and Anmerkungen.
+
+1) bild hintergundd
+3) suche korr
+4) scroll größer
+8) verlinkung

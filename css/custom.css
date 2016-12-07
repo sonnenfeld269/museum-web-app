@@ -1,0 +1,78 @@
+.frontimg {
+  max-width: 100%;
+  height:auto;
+  display: block;
+}
+
+.frontimggef {
+  max-width: 100%;
+  height:auto;
+  display: block;
+  margin-top: 20px;
+}
+
+.lagerortbg {
+  background-image: url(../images/startseiten/bild_lagerorte1.jpg);
+padding: 50px;
+}
+
+.einstieg-bg {
+  background-image: url(../images/startseiten/bild_einstieg1.jpg);
+  height: 100%;
+  width: 100%;
+}
+
+.gefangene-bg {
+  background-image: url(../images/startseiten/bild_gefangene1.jpg);
+  max-height: 70%;
+  max-width: 70%;
+}
+
+input[type="text"] {
+    font-size:20px;
+}
+
+body {
+  padding-top: 90px;
+  font-weight: 600;
+  font-size: 27px;
+}
+
+.form-buttons {
+margin-top:20px;
+}
+
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+table {
+  width: 100%;
+}
+th {
+  color:#777777;
+  font-size: 30px;
+}
+
+.borderb {
+  border-bottom: solid black 2px;
+}
+
+.inleft {
+  margin-left: 20px;
+}
+
+nav {
+  padding: 20px;
+}
+
+::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 32px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background-color: rgba(0,0,0,.5);
+}
